@@ -1,11 +1,8 @@
 #!/bin/bash
 
-# Datei einlesen
 input_file="Namensliste.csv"
 output_file="samichlaus_nachrichten.txt"
-ubersicht_file="samichlaus_uebersicht.txt"
-
-
+uebersicht_file="samichlaus_uebersicht.txt"
 
 # Liste der Witze
 jokes=(
@@ -28,9 +25,15 @@ jokes=(
     fi
     echo "$nachricht"
     echo "$nachricht" >> "$output_file"
-    echo ""
+    echo ""  # Neue Zeile als Lücke
   done
 } < "$input_file"
+
+# Ausgabe der Nachrichten in der Konsole
+cat "$output_file"
+
+# Bonus: Nachrichten nach Wohnorten sortieren und Sammelübersicht erstellen
+declare -A orte
 
 {
   read
@@ -44,11 +47,7 @@ jokes=(
 } < "$input_file"
 
 for ort in "${!orte[@]}"; do
-  echo "$ort:" >> "$ubersicht_file"
-  echo "${orte[$ort]}" >> "$ubersicht_file"
-  echo "" >> "$ubersicht_file"
-  echo ""
+  echo "$ort:" >> "$uebersicht_file"
+  echo "${orte[$ort]}" >> "$uebersicht_file"
+  echo "" >> "$uebersicht_file"
 done
-
-# Ausgabe der Nachrichten in der Konsole
-cat "$output_file"

@@ -1,0 +1,152 @@
+Neuenburg:
+Christian Brunner: Artig
+
+
+Luzern:
+Fabian Huber: Artig
+
+
+Sion:
+Raphael Gerber: Artig
+
+
+Zürich:
+Lukas Meier: Artig
+
+
+Aarau:
+Emma Hofer: Nicht artig
+
+
+Schaffhausen:
+Sara Berger: Nicht artig
+
+
+Zug:
+Laura Müller: Nicht artig
+
+
+Thun:
+Thomas Weber: Artig
+
+
+Lausanne:
+Marco Hofer: Artig
+
+
+Biel:
+Julia Haas: Nicht artig
+
+
+Köniz:
+Kevin Schneider: Artig
+
+
+Genf:
+Sofia Ziegler: Nicht artig
+
+
+Basel:
+Anna Fischer: Nicht artig
+
+
+Bern:
+Jonas Keller: Artig
+
+
+Winterthur:
+Nina Schmid: Nicht artig
+
+
+Freiburg:
+Michael Bachmann: Artig
+
+
+Uster:
+Lea Egger: Nicht artig
+
+
+Chur:
+Mia Lang: Nicht artig
+
+
+St. Gallen:
+Leon Wagner: Artig
+
+
+Neuenburg:
+Christian Brunner: Artig
+
+
+Luzern:
+Fabian Huber: Artig
+
+
+Sion:
+Raphael Gerber: Artig
+
+
+Zürich:
+Lukas Meier: Artig
+
+
+Aarau:
+Emma Hofer: Nicht artig
+
+
+Schaffhausen:
+Sara Berger: Nicht artig
+
+
+Zug:
+Laura Müller: Nicht artig
+
+
+Thun:
+Thomas Weber: Artig
+
+
+Lausanne:
+Marco Hofer: Artig
+
+
+Biel:
+Julia Haas: Nicht artig
+
+
+Köniz:
+Kevin Schneider: Artig
+
+
+Genf:
+Sofia Ziegler: Nicht artig
+
+
+Basel:
+Anna Fischer: Nicht artig
+
+
+Bern:
+Jonas Keller: Artig
+
+
+Winterthur:
+Nina Schmid: Nicht artig
+
+
+Freiburg:
+Michael Bachmann: Artig
+
+
+Uster:
+Lea Egger: Nicht artig
+
+
+Chur:
+Mia Lang: Nicht artig
+
+
+St. Gallen:
+Leon Wagner: Artig
+
+
